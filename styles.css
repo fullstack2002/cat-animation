@@ -1,8 +1,6 @@
 .cat {
-  /*     background: url(''); */
   height: 297px;
   width: 507px;
-  /*     bottom: -25%; */
   position: fixed;
   animation: walk 25s linear infinite;
 }
